@@ -39,5 +39,5 @@ Tempita===0.5.1
 testtools===1.8.0
 traceback2===1.4.0
 unittest2===1.1.0
-urllib3===1.21.1
+urllib3===1.24.2
 wrapt===1.11.1
